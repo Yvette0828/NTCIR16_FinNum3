@@ -59,15 +59,6 @@ src/
   - Initial: 1.2e-5 ~ 8.3e-4
   - Progressive reduction through training phases
 
-## Results
-
-Results are saved in JSON format under the `result/` directory, containing:
-- Text
-- Target numeral
-- Offset
-- Category (for dev set)
-- Claim prediction
-
 ## Acknowledgments
 
 This work is part of the NTCIR-16 FinNum-3 shared task. The research was supported in part by the Ministry of Science and Technology (MOST), Taiwan under grant number 110-2410-H-305-013-MY2, and National Taipei University (NTPU) under grant number 110-NTPU-ORDA-F-001, 111-NTPU-ORDA-F-001, and 111-NTPUORDA-F-003.
